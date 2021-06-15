@@ -1,0 +1,42 @@
+.main-footer {
+  width: 100%;
+    color: white;
+    background-color: #1c0d04;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: row;
+  }
+  .text-wrapper{
+    display: flex;
+  }
+  .coding-ninjas{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    cursor: pointer;
+  }
+  .products{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    cursor: pointer;
+  }
+  .community{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    cursor: pointer;
+  }
+  .follow-us{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    cursor: pointer;
+  }
+  .dark-logo{
+    height: 76px;
+    margin-top: 19px;
+    max-width: 100%;
+  }

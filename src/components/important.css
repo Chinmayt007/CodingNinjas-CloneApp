@@ -1,0 +1,13 @@
+.important{
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 100px;
+}
+
+.content{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    font-size:small;
+    cursor: pointer;
+}

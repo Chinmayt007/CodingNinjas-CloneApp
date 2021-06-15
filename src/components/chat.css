@@ -1,0 +1,9 @@
+.main-chat{
+    position: fixed;
+    right: 44px;
+    bottom: 12px;
+    width: 84px;
+    height: 84px;
+    z-index: 900;
+    cursor: pointer;
+}
